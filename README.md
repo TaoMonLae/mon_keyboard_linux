@@ -12,4 +12,9 @@ Mon (mnw_MM) keyboard for linux
     
     # Uninstall
     ./mon_kb.sh uninstall
+#  နိဿဲ
+
+ - https://askubuntu.com/a/805207
+ - https://askubuntu.com/questions/510024/what-are-the-steps-needed-to-create-new-keyboard-layout-on-ubuntu
+ - https://github.com/KhunHtetzNaing/Ubuntu-PaOh-Keyboard
 
