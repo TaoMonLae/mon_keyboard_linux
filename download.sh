@@ -1,7 +1,7 @@
 #!/bin/bash
 
 target_dir="mon-kb"
-target_url="https://github.com/TaoMonLae/mon_keyboard_linux/raw/main"
+target_url="https://github.com/TaoMonLae/mon_keyboard_linux/rd/raw/main"
 files=("mnw" "mon_kb.sh")
 echo "🔰 Started download file and script 📂"
 
