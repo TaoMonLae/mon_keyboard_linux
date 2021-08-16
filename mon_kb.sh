@@ -3,7 +3,7 @@
 # Ref https://askubuntu.com/questions/510024/what-are-the-steps-needed-to-create-new-keyboard-layout-on-ubuntu
 
 search="<\/layoutList>"
-replace="  <layout>\n      <configItem>\n        <name>mnw<\/name>\n        <!-- Keyboard indicator for Mon (Mon, mnw) layouts -->\n        <shortDescription>mon<\/shortDescription>\n        <description>Mon<\/description>\n        <languageList>\n          <iso639Id>mnw<\/iso639Id>\n        <\/languageList>\n      <\/configItem>\n    <\/layout>\n\t<\/layoutList>"
+replace="  <layout>\n      <configItem>\n        <name>mnw<\/name>\n        <!-- Keyboard indicator for Mon (Mon, mnw) layouts -->\n        <shortDescription>mnw<\/shortDescription>\n        <description>Mon<\/description>\n        <languageList>\n          <iso639Id>mnw<\/iso639Id>\n        <\/languageList>\n      <\/configItem>\n    <\/layout>\n\t<\/layoutList>"
 
 org="evdev.xml"
 bak="evdev.xml.bak"
