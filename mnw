@@ -13,7 +13,7 @@ xkb_symbols "basic" {
     key <AE08> { [      U1048,      U1002,            8,    asterisk ] };
     key <AE09> { [      U1049,  parenleft,            9,   parenleft ] };
     key <AE10> { [      U1040, parenright,            0,  parenright ] };
-    key <AE11> { [      minus,      U0078,        minus,  underscore ] };
+    key <AE11> { [      minus,      U00D7,        minus,  underscore ] };
     key <AE12> { [      equal,       plus,        equal,        plus ] };
 
     key <AD01> { [      U1006,      U105B,            q,           Q ] }; 
